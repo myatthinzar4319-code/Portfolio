@@ -21,7 +21,7 @@ This repository will contain:
 - Web-based system with separate student and teacher roles
 - Features include login, attendance tracking, grade management, and material upload
 - Tech: PHP, MySQL, HTML, CSS, XAMPP
-- Repository: https://github.com/myatthinzar4319-code/attendance-management-system
+- Repository: https://github.com/myatthinzar4319-code/school-management-system
 
 ### Airline Reservation System (Java)
 - Console-based application for seat reservation
